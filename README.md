@@ -1,4 +1,4 @@
-# apancollege
-this is my first repository.
+# API Testing Projects
+This is my API Testing Projects repository.
 
-Owner : manish kumar patel
+Owner: Manish Kumar Patel
